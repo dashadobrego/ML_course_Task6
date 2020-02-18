@@ -1,6 +1,6 @@
 # ML_course_Task6
 
-In this task you are asked to work with the *bankloans.xlsx* file (see the case-study discussion from the lecture). Each group works with its own indicator of **default on loans**.
+In this task you are asked to work with the *bankloans.xlsx* file. Each group works with its own indicator of **default on loans**.
 - othdebt
 
 Split the values of your indicator into **two** groups: one with **default = 0** and the other with **default = 1**.
